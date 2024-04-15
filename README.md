@@ -1,1 +1,1 @@
-# probability-abd-combinatorics-checkpoint
+# probability-and-combinatorics-checkpoint
